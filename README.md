@@ -1,1 +1,1 @@
-# mazeball
+# MAZE-BALL
